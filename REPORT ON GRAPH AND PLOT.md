@@ -20,12 +20,9 @@ In summary, the bar chart provides a visual representation of how alcohol conten
 
 
 ## Scatter Plot of  Alcohol against Residual Sugar
+
 ![Scatter Plot of Alcohol against Residual SUgar](<graph 2-1.jpg>)
 
-
-## Scatter Plot of Alcohol Content vs. Residual Sugar
-
-![Scatter Plot](path/to/scatter_plot_alcohol_residual_sugar.png)
 
 The scatter plot above visualizes the relationship between alcohol content and residual sugar in red wines. Key observations from the scatter plot are as follows:
 

@@ -20,7 +20,19 @@ In summary, the bar chart provides a visual representation of how alcohol conten
 
 
 ## Scatter Plot of  Alcohol against Residual Sugar
+
 ![Scatter Plot of Alcohol against Residual SUgar](<graph 2-1.jpg>)
 
 
-The scatter plot shows the relationship between alcohol content and pH in red wines. There appears to be [insert observations or patterns], suggesting a [possible correlation or lack thereof] between these two variables.
+The scatter plot above visualizes the relationship between alcohol content and residual sugar in red wines. Key observations from the scatter plot are as follows:
+
+1. **Diverse Distribution:**
+   - The scatter plot reveals a diverse distribution of data points, indicating that the dataset includes red wines with a wide range of alcohol content and residual sugar levels.
+
+2. **Lack of Clear Correlation:**
+   - Upon visual inspection, there doesn't appear to be a clear linear correlation between alcohol content and residual sugar. Wines with varying levels of residual sugar can be found across the entire spectrum of alcohol content.
+
+3. **Potential Nonlinear Relationships:**
+   - The lack of a clear linear trend hints at the possibility of nonlinear relationships between alcohol content and residual sugar.
+
+In conclusion, the scatter plot provides a comprehensive view of the distribution and relationship between alcohol content and residual sugar in red wines. The absence of a straightforward correlation suggests the presence of various factors influencing these attributes, warranting further investigation.
